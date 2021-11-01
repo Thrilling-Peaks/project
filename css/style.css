@@ -86,6 +86,13 @@ footer {
   border-radius: 50%
 }
 
+.card-brown {
+  background-color:  #EFD8C2;
+  padding:  30px;
+  margin: 20px 0px;
+  text-align: center;
+  width: 250px;
+}
 
 
 
