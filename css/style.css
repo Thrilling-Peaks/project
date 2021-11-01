@@ -103,6 +103,21 @@ footer {
 
 }
 
+.card-brown-3{
+  background-color:  #EFD8C2;
+  padding:  20px;
+  margin: 20px 0px;
+  text-align: center;
+  width: 500px;
+}
+
+.card-brown-4{
+  background-color:  #EFD8C2;
+  padding:  40px;
+  margin: 20px 0px;
+  text-align: center;
+  width: 950px;
+}
 
 
 .cards {
