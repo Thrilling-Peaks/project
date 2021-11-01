@@ -82,7 +82,9 @@ footer {
 }
 
 
-
+.img-circle {
+  border-radius: 50%
+}
 
 
 
@@ -168,6 +170,7 @@ footer {
   from {opacity: .4}
   to {opacity: 1}
 }
+
 
 
 
