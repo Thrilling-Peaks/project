@@ -25,9 +25,10 @@ input[type=number], select, textarea {
 
 select {
   width: 100%;
-  padding: 16px 20px;
-  border: none;
+  padding: 12px;
+  border: 1px solid #ccc;
   border-radius: 4px;
+  box-sizing: border-box;
   background-color: #f1f1f1;
 }
 
