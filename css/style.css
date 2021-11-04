@@ -113,6 +113,18 @@ footer {
   width: 500px;
 }
 
+ #global{
+  width:110%;
+}
+#global #gauche {
+    float:left;
+    width:40%;
+}
+#global #droite {
+  width: 40% ;
+    margin-left:50% ; 
+}
+
 .card-brown-4{
   background-color:  #EFD8C2;
   padding:  40px;
@@ -120,6 +132,13 @@ footer {
   text-align: center;
   width: 950px;
 }
+
+.card-brown-5{
+  background-color:  #EFD8C2;
+  padding:  20px;
+  margin: 20px 0px;
+  text-align: center;
+  width: 500px;
 
 
 .cards {
