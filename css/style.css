@@ -174,7 +174,18 @@ footer {
     
 }
 
+.blocks {
+  display: block;
+  display: center; 
 
+}
+
+.block {
+padding: 40px;
+    display: block;
+    text-align: center;
+
+}
 
 
 * {box-sizing:border-box}
