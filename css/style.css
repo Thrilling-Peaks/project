@@ -51,6 +51,11 @@ a {
   color: white;
 }
 
+.header-widget .button {
+    margin: 5px;
+}
+
+
 footer {
         position: absolute;
         left: 0;
